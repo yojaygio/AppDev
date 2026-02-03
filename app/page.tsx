@@ -59,7 +59,7 @@ export default function BriesMusic() {
                 <span className="text-[#9c27b0] drop-shadow-[0_0_15px_rgba(156,39,176,0.6)]">Top 5</span>
               </h1>
               <p className="text-[#e1bee7] font-bold mt-4 tracking-[0.4em] text-xs uppercase opacity-70">
-                Curated Chaos & Melodies
+                press spotify icon for live playlist
               </p>
             </div>
 
