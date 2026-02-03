@@ -78,7 +78,7 @@ export default function BriesMusic() {
 
               {/* Spotify Icon */}
               <a 
-                href="https://open.spotify.com/playlist/7q3dolmoQFE3dlYgysYZit?si=uzVTT33LSWuCDRL2BdNEOg" 
+                href="https://open.spotify.com/playlist/2st5Wtynvwlonzysk7CAeT" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group relative flex items-center justify-center w-20 h-20 bg-[#1DB954] rounded-full hover:scale-110 transition-all duration-500 shadow-[0_0_40px_rgba(29,185,84,0.3)]"
